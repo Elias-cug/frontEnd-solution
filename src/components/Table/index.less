@@ -1,0 +1,33 @@
+.custom-table-wrap {
+  height: 100%;
+  overflow-y: auto;
+  scrollbar-width: none; /* firefox */
+  -ms-overflow-style: none; /* IE 10+ */
+  .custom-table {
+    width: 100%;
+    table-layout: fixed;
+
+    thead th {
+      position: sticky;
+      top: -1px;
+      padding: 12px 8px;
+      z-index: 10;
+      background: #fafafa;
+      border-bottom: 1px solid #f0f0f0;
+      font-size: 14px;
+    }
+
+    tbody tr {
+      td {
+        font-size: 14px;
+        border-bottom: 1px solid #f0f0f0;
+        padding: 12px 8px;
+      }
+    }
+  }
+}
+
+/* 隐藏滚动条 */
+.custom-table-wrap::-webkit-scrollbar {
+  display: none; /* Chrome Safari */
+}

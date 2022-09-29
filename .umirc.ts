@@ -28,11 +28,17 @@ export default defineConfig({
       name: ' CRUD 示例',
       path: '/table',
       component: './Table',
-    },{
+    },
+    {
       name: '轮播图',
       path: '/rotationChart',
-      component: './RotationChart'
-    }
+      component: './RotationChart',
+    },
+    {
+      name: '自定义table',
+      path: '/customtable',
+      component: './CustomTable',
+    },
   ],
   npmClient: 'yarn',
 });
