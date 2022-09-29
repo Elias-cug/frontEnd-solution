@@ -1,3 +1,21 @@
-.main {
-  width: 200px;
+.scroller {
+  width: 600px;
+  height: 375px;
+  overflow: hidden;
+  margin: 30px auto;
+
+  .inner {
+    overflow: scroll;
+    transition: transform 0.3s ease;
+
+    img {
+      height: 375px;
+      display: block;
+      float: left;
+    }
+  }
+
+  .inner::-webkit-scrollbar {
+    display: none;
+  }
 }

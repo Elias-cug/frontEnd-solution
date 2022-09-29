@@ -1,6 +1,6 @@
 import { PageContainer } from '@ant-design/pro-components';
 import RotationChart from '../../components/RotationChart';
-// import styles from './index.less';
+import styles from './index.less';
 
 const HomePage: React.FC = () => {
   const imageList = [
@@ -11,6 +11,7 @@ const HomePage: React.FC = () => {
   ];
   return (
     <PageContainer ghost>
+      <span className={styles.title}>轮播图一：</span>
       <RotationChart imageList={imageList} />
     </PageContainer>
   );
