@@ -39,6 +39,11 @@ export default defineConfig({
       path: '/customtable',
       component: './CustomTable',
     },
+    {
+      name: '地图',
+      path: '/map',
+      component: './Map',
+    },
   ],
   npmClient: 'yarn',
 });

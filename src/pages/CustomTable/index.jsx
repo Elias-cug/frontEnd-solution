@@ -1,6 +1,7 @@
 import { PageContainer } from '@ant-design/pro-components';
 import Table from '../../components/Table';
 import styles from './index.less';
+import useSWR from 'swr';
 
 const CustomTable = () => {
   const getRandom = function () {
@@ -128,7 +129,13 @@ const CustomTable = () => {
       changeRate: '80%',
     },
   ];
-
+  useSWR(
+    'aaa',
+    async () => {
+      console.log(Math.random());
+    },
+    { refreshInterval: 1000 },
+  );
   return (
     <PageContainer ghost>
       <span className={styles.title}>自定义表格：</span>
