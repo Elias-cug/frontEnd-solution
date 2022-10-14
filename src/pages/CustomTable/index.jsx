@@ -2,11 +2,26 @@ import { PageContainer } from '@ant-design/pro-components';
 import Table from '../../components/Table';
 import styles from './index.less';
 import useSWR from 'swr';
+import { useEffect } from 'react';
+
+const useAwm = () => {
+  useSWR(
+    'aaa',
+    async () => {
+      // console.log(Math.random());
+    },
+    { refreshInterval: 1000 },
+  );
+  return {
+    data: Math.random(),
+  };
+};
 
 const CustomTable = () => {
   const getRandom = function () {
     return (Math.random() * 1000).toFixed(0);
   };
+  const { data } = useAwm();
   const columns = [
     {
       dataIndex: 'name',
@@ -129,13 +144,10 @@ const CustomTable = () => {
       changeRate: '80%',
     },
   ];
-  useSWR(
-    'aaa',
-    async () => {
-      console.log(Math.random());
-    },
-    { refreshInterval: 1000 },
-  );
+
+  useEffect(() => {
+    console.log(data);
+  }, [data]);
   return (
     <PageContainer ghost>
       <span className={styles.title}>自定义表格：</span>

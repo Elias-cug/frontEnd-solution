@@ -4,8 +4,11 @@ import AMapLoader from '@amap/amap-jsapi-loader';
 const amapKey = 'e164633fbf4b202816aebfc4fd04750e';
 
 export default function useMap({ mapId }) {
+  let Amap = null;
   const init = function (AMapCls) {
-    new AMapCls.Map(mapId);
+    if (AMapCls) {
+      Amap = new AMapCls.Map(mapId);
+    }
   };
 
   useEffect(() => {
@@ -18,5 +21,5 @@ export default function useMap({ mapId }) {
     }).then(init);
   }, []);
 
-  return { init };
+  return { init, Amap };
 }
