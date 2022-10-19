@@ -1,6 +1,3 @@
-const point_icon1 = require('../../assets/map/point-icon1.svg');
-const point_icon2 = require('../../assets/map/point-icon2.svg');
-const point_icon3 = require('../../assets/map/point-icon3.svg');
 export const paths = [
   {
     id: 0,
@@ -2959,7 +2956,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon3,
+      image: '中转站',
     },
   },
   {
@@ -2968,7 +2965,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon3,
+      image: '中转站',
     },
   },
   {
@@ -2977,7 +2974,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon3,
+      image: '中转站',
     },
   },
   {
@@ -2986,7 +2983,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon3,
+      image: '中转站',
     },
   },
   {
@@ -2995,7 +2992,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon3,
+      image: '处理厂',
     },
   },
   {
@@ -3004,7 +3001,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3013,7 +3010,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3022,7 +3019,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3031,7 +3028,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3040,7 +3037,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3049,7 +3046,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3058,7 +3055,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3067,7 +3064,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3076,7 +3073,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3085,7 +3082,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3094,7 +3091,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3103,7 +3100,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3112,7 +3109,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3121,7 +3118,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3130,7 +3127,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3139,7 +3136,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3148,7 +3145,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3157,7 +3154,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3166,7 +3163,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3175,7 +3172,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3184,7 +3181,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3193,7 +3190,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3202,7 +3199,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3211,7 +3208,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3220,7 +3217,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3229,7 +3226,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3238,7 +3235,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3247,7 +3244,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3256,7 +3253,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3265,7 +3262,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3274,7 +3271,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3283,7 +3280,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3292,7 +3289,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3301,7 +3298,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3310,7 +3307,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3319,7 +3316,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3328,7 +3325,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3337,7 +3334,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3346,7 +3343,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3355,7 +3352,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3364,7 +3361,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3373,7 +3370,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3382,7 +3379,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3391,7 +3388,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3400,7 +3397,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3409,7 +3406,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3418,7 +3415,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3427,7 +3424,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3436,7 +3433,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3445,7 +3442,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3454,7 +3451,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3463,7 +3460,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3472,7 +3469,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3481,7 +3478,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3490,7 +3487,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3499,7 +3496,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3508,7 +3505,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3517,7 +3514,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3526,7 +3523,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3535,7 +3532,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3544,7 +3541,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3553,7 +3550,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3562,7 +3559,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3571,7 +3568,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3580,7 +3577,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3589,7 +3586,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3598,7 +3595,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3607,7 +3604,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3616,7 +3613,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3625,7 +3622,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3634,7 +3631,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3643,7 +3640,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3652,7 +3649,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3661,7 +3658,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3670,7 +3667,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3679,7 +3676,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3688,7 +3685,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3697,7 +3694,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3706,7 +3703,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3715,7 +3712,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3724,7 +3721,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3733,7 +3730,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3742,7 +3739,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3751,7 +3748,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3760,7 +3757,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3769,7 +3766,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3778,7 +3775,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3787,7 +3784,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3796,7 +3793,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3805,7 +3802,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3814,7 +3811,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3823,7 +3820,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3832,7 +3829,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3841,7 +3838,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3850,7 +3847,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3859,7 +3856,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3868,7 +3865,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3877,7 +3874,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3886,7 +3883,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3895,7 +3892,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3904,7 +3901,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3913,7 +3910,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3922,7 +3919,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3931,7 +3928,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3940,7 +3937,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3949,7 +3946,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3958,7 +3955,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3967,7 +3964,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3976,7 +3973,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3985,7 +3982,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -3994,7 +3991,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4003,7 +4000,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4012,7 +4009,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4021,7 +4018,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4030,7 +4027,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4039,7 +4036,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4048,7 +4045,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4057,7 +4054,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4066,7 +4063,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4075,7 +4072,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4084,7 +4081,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4093,7 +4090,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4102,7 +4099,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4111,7 +4108,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4120,7 +4117,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4129,7 +4126,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4138,7 +4135,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4147,7 +4144,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4156,7 +4153,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4165,7 +4162,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4174,7 +4171,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4183,7 +4180,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4192,7 +4189,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4201,7 +4198,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4210,7 +4207,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4219,7 +4216,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4228,7 +4225,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4237,7 +4234,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4246,7 +4243,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4255,7 +4252,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4264,7 +4261,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4273,7 +4270,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4282,7 +4279,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4291,7 +4288,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4300,7 +4297,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4309,7 +4306,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4318,7 +4315,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4327,7 +4324,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4336,7 +4333,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4345,7 +4342,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4354,7 +4351,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4363,7 +4360,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4372,7 +4369,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4381,7 +4378,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4390,7 +4387,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4399,7 +4396,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4408,7 +4405,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4417,7 +4414,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4426,7 +4423,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4435,7 +4432,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4444,7 +4441,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4453,7 +4450,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4462,7 +4459,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4471,7 +4468,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4480,7 +4477,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4489,7 +4486,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4498,7 +4495,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4507,7 +4504,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4516,7 +4513,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4525,7 +4522,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4534,7 +4531,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4543,7 +4540,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4552,7 +4549,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4561,7 +4558,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4570,7 +4567,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4579,7 +4576,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4588,7 +4585,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4597,7 +4594,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4606,7 +4603,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4615,7 +4612,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4624,7 +4621,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4633,7 +4630,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4642,7 +4639,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4651,7 +4648,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4660,7 +4657,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4669,7 +4666,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4678,7 +4675,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4687,7 +4684,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4696,7 +4693,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4705,7 +4702,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4714,7 +4711,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4723,7 +4720,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4732,7 +4729,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4741,7 +4738,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4750,7 +4747,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4759,7 +4756,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4768,7 +4765,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4777,7 +4774,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4786,7 +4783,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4795,7 +4792,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4804,7 +4801,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4813,7 +4810,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4822,7 +4819,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4831,7 +4828,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4840,7 +4837,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4849,7 +4846,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4858,7 +4855,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4867,7 +4864,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4876,7 +4873,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4885,7 +4882,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4894,7 +4891,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4903,7 +4900,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4912,7 +4909,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4921,7 +4918,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4930,7 +4927,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4939,7 +4936,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4948,7 +4945,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4957,7 +4954,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4966,7 +4963,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4975,7 +4972,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4984,7 +4981,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -4993,7 +4990,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5002,7 +4999,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5011,7 +5008,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5020,7 +5017,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5029,7 +5026,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5038,7 +5035,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5047,7 +5044,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5056,7 +5053,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5065,7 +5062,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5074,7 +5071,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5083,7 +5080,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5092,7 +5089,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5101,7 +5098,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5110,7 +5107,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5119,7 +5116,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5128,7 +5125,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5137,7 +5134,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5146,7 +5143,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5155,7 +5152,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5164,7 +5161,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5173,7 +5170,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5182,7 +5179,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5191,7 +5188,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5200,7 +5197,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5209,7 +5206,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5218,7 +5215,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5227,7 +5224,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5236,7 +5233,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5245,7 +5242,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5254,7 +5251,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5263,7 +5260,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5272,7 +5269,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5281,7 +5278,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5290,7 +5287,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5299,7 +5296,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5308,7 +5305,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5317,7 +5314,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5326,7 +5323,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5335,7 +5332,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5344,7 +5341,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5353,7 +5350,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5362,7 +5359,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
   {
@@ -5371,7 +5368,7 @@ export const points = [
     icon: {
       type: 'image',
       size: [30, 30],
-      image: point_icon2,
+      image: '环保屋',
     },
   },
 ];

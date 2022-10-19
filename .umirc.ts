@@ -44,6 +44,11 @@ export default defineConfig({
       path: '/map',
       component: './Map',
     },
+    {
+      name: '词云',
+      path: '/echart',
+      component: './Echarts',
+    },
   ],
   npmClient: 'yarn',
 });
